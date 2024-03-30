@@ -26,7 +26,7 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
-Your Name - Sandeep08012003@gmail.com
+Email - Sandeep08012003@gmail.com
 
 Project Link: [https://github.com/your_username/friends-website](https://github.com/Sandeepkumawat9821/friends.git)
 
