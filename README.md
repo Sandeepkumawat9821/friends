@@ -11,7 +11,7 @@ To get a local copy up and running, follow these steps:
 Clone the repository
 sh
 Copy code
-git clone [https://github.com/your_username/friends-website.git](https://github.com/Sandeepkumawat9821/friends.git)
+git clone (https://github.com/Sandeepkumawat9821/friends.git)
 Open the project folder in your favorite code editor
 Open index.html in your web browser
 Contributing
@@ -28,6 +28,6 @@ Distributed under the MIT License. See LICENSE for more information.
 Contact
 Email - Sandeep08012003@gmail.com
 
-Project Link: [https://github.com/your_username/friends-website](https://github.com/Sandeepkumawat9821/friends.git)
+Project Link: (https://github.com/Sandeepkumawat9821/friends.git)
 
 You can customize this template with specific details about your Friends on this website.
